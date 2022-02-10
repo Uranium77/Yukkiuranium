@@ -6,8 +6,8 @@
 <p align="center">
     <a href="https://t.me/YukkiRobot"> Ready-To-Use Bot </a> •
     <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/OfficialYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://t.me/GALAXY_DREAMLANAD"> Support Channel </a> •
+    <a href="https://t.me/DAZZLING_GALAXY"> Support Chat </a> 
 </p>
     
 # Yukki Music Bot
