@@ -64,19 +64,19 @@ def AssistantAdd(mystic):
                     [
                         InlineKeyboardButton(
                             text="🗑 Unban Assistant",
-                            callback_data=f"unban_assistant a|{ASS_ID}",
+                            callback_data=f"unban_assistant a|{5261336554}",
                         )
                     ],
                 ]
             )
             if b.status == "kicked":
                 return await message.reply_text(
-                    f"Assistant Account[{ASS_ID}] is banned.\nUnban it first to use Music Bot\n\nUsername: @{ASS_USERNAME}",
+                    f"Assistant Account[{5261336554}] is banned.\nUnban it first to use Music Bot\n\nUsername: @{RAJPUTANA_XD}",
                     reply_markup=key,
                 )
             if b.status == "banned":
                 return await message.reply_text(
-                    f"Assistant Account[{ASS_ID}] is banned.\nUnban it first to use Music Bot\n\nUsername: @{ASS_USERNAME}",
+                    f"Assistant Account[{ASS_ID}] is banned.\nUnban it first to use Music Bot\n\nUsername: @{@RAJPUTANA_XD}",
                     reply_markup=key,
                 )
         except UserNotParticipant:
