@@ -10,7 +10,7 @@
     <a href="https://t.me/DAZZLING_GALAXY"> Support Chat </a> 
 </p>
     
-# Yukki Music Bot
+# URANIUM MUSIC BoT
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
@@ -65,7 +65,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/Uranium77/uranium-musicbot
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
@@ -86,9 +86,9 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/OfficialYukki)
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/MY_DREAM_PRINCESS)
+- [Telegram Support Group](https://t.me/LOVERS_SWEETLAND)
+- [Contact Owner](@THE_URANIUM_OP)
 
 
 ## License
