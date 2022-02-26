@@ -86,9 +86,9 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/MY_DREAM_PRINCESS)
+- [Telegram Channel](https://t.me/URANIUM_UPDATES)
 - [Telegram Support Group](https://t.me/LOVERS_SWEETLAND)
-- [Contact Owner](@THE_URANIUM_OP)
+- [Contact Owner](@THE_URANIUM)
 
 
 ## License
